@@ -11,12 +11,13 @@ Se quiere encontrar la relación entre la calidad del vino y el alcohol y su pH.
 
 1. Vino blanco
 
-Selección_044
+![Vino blanco](https://github.com/hectorivan666/uasb_analytics/blob/master/Selecci%C3%B3n_044.png "Vino blanco")
 
 2. Vino tinto
 
 Selección_043
 
+![Vino Tinto](https://github.com/hectorivan666/uasb_analytics/blob/master/Selecci%C3%B3n_043.png "Vino Tinto")
 
 ## Conclusión
 
