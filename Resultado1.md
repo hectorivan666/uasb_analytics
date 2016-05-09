@@ -12,6 +12,11 @@ Se quiere encontrar la relación entre el nivel de pH y la acidez de los vinos.
 1. Vino blanco
 Selección_037,  Selección_038
 
+![Vino blanco](https://github.com/hectorivan666/uasb_analytics/blob/master/Selecci%C3%B3n_038.png "Vino blanco")
+![Vino blanco2](https://github.com/hectorivan666/uasb_analytics/blob/master/Selecci%C3%B3n_037.png "Vino blanco2")
+
+
+
 2. Vino tinto
 
 Selección_035.png, Selección_036
