@@ -21,6 +21,9 @@ Selección_037,  Selección_038
 
 Selección_035.png, Selección_036
 
+![Vino Tinto](https://github.com/hectorivan666/uasb_analytics/blob/master/Selecci%C3%B3n_035.png "Vino Tinto")
+![Vino Tinto2](https://github.com/hectorivan666/uasb_analytics/blob/master/Selecci%C3%B3n_036.png "Vino Tinto2")
+
 
 ## Conclusión
 
